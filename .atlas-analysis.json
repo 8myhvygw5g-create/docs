@@ -1,0 +1,60 @@
+{
+  "projectType": "saas",
+  "projectName": "OOOKAPLYA — Маркетолог",
+  "projectDescription": "Персональный сайт маркетолога Капли Савелия — продвижение спортсменов, брендов и мероприятий.",
+  "theme": "almond",
+  "primaryColor": "#ef7025",
+  "lightColor": "#eec9bc",
+  "darkColor": "#4fa1ab",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "О сервисе",
+        "groups": [
+          {
+            "group": "Начало",
+            "pages": [
+              "introduction",
+              "about"
+            ]
+          },
+          {
+            "group": "Услуги",
+            "pages": [
+              "services/advertising",
+              "services/marketing",
+              "services/promotion"
+            ]
+          },
+          {
+            "group": "Проекты",
+            "pages": [
+              "projects/instagram",
+              "projects/athlete-brand",
+              "projects/event-campaign"
+            ]
+          },
+          {
+            "group": "Контакты",
+            "pages": [
+              "contact"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Продвижение в социальных сетях (Instagram, Telegram)",
+    "Создание личного бренда спортсмена",
+    "Организация и реклама мероприятий",
+    "Запуск рекламных кампаний",
+    "Современный маркетинг и продвижение брендов"
+  ],
+  "publicApiSurface": [
+    "Telegram: @yourusername",
+    "Email: example@mail.com",
+    "Instagram: @yourpage"
+  ],
+  "siteUrl": "https://ooosava.mintlify.app"
+}
